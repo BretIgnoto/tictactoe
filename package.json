@@ -1,0 +1,7 @@
+{
+	"name": "react-tutorial",
+	"main": "server.js",
+	"dependencies": {
+		"express": ""
+	}
+}
